@@ -1,22 +1,23 @@
 {
-  "date": "Thursday 29 October 2026",
-  "updated": "29 Oct 2026, 6:45 AM AEST",
+  "date": "Friday 30 October 2026",
+  "updated": "30 Oct 2026, 6:44 AM AEST",
   "sections": [
     {
       "name": "World",
       "items": [
-        "Israel election: Likud leads as counting continues (Developing)",
-        "Report: US tells allies to prepare for \"short, intense\" Iran campaign after midterms (Unconfirmed)",
-        "Flávio Bolsonaro reportedly leaves Brazil (Details differ)",
-        "Atmospheric CO2 hits new high ahead of COP31"
+        "US reaches out to Iran as mediators push for a nuclear-inspections deal",
+        "Russian drone kills 13 at Dnipro train station",
+        "North Korea fires 10 short-range ballistic missiles",
+        "Flávio Bolsonaro lands in Miami, calls himself \"leader of Brazil\""
       ]
     },
     {
       "name": "Australia",
       "items": [
-        "Inflation jumps to 4.3%; rate rise expected on Tuesday",
-        "Helen Haines's offices reopen; MP lost both legs in attack",
-        "Coroner links actor's death to unapproved peptides"
+        "Erin Patterson appeal decision due today",
+        "Labor moves to ease international student visa crackdown",
+        "Unions warn of blackout risk in energy market operator pay dispute",
+        "Sydney's Metro Southwest line opens"
       ]
     },
     {
@@ -26,15 +27,14 @@
     {
       "name": "Mauritius",
       "items": [
-        "Drier summer forecast could prolong the water crisis",
-        "Seven young people jailed over 13 October riots"
+        "Main reservoir has lost capacity, minister tells Parliament",
+        "Social housing behind schedule at Pointe-aux-Piments"
       ]
     },
     {
       "name": "Claude",
       "items": [
-        "Anthropic reports early progress using Claude to speed up drug development",
-        "Claude offered to US government agencies at a 40% discount"
+        "Anthropic expands AI for Science to 20 research partners"
       ]
     }
   ]
