@@ -1,23 +1,24 @@
 {
-  "date": "Friday 30 October 2026",
-  "updated": "30 Oct 2026, 6:44 AM AEST",
+  "date": "Saturday 31 October 2026",
+  "updated": "31 Oct 2026, 6:45 AM AEST",
   "sections": [
     {
       "name": "World",
       "items": [
-        "US reaches out to Iran as mediators push for a nuclear-inspections deal",
-        "Russian drone kills 13 at Dnipro train station",
-        "North Korea fires 10 short-range ballistic missiles",
-        "Flávio Bolsonaro lands in Miami, calls himself \"leader of Brazil\""
+        "Netanyahu claims Israeli election was \"stolen\"; police find no evidence",
+        "Spain rail disaster: at least 69 dead",
+        "Dnipro station strike toll rises to at least 14",
+        "Drone sinks Greek container ship off Bulgaria",
+        "Binance hit by record $6B+ hack (Attribution alleged)"
       ]
     },
     {
       "name": "Australia",
       "items": [
-        "Erin Patterson appeal decision due today",
-        "Labor moves to ease international student visa crackdown",
-        "Unions warn of blackout risk in energy market operator pay dispute",
-        "Sydney's Metro Southwest line opens"
+        "Erin Patterson loses appeal; sentence raised to life without parole",
+        "Two Australians unaccounted for after Spain train crash",
+        "Inquests reveal mental health care failures in NSW prisons",
+        "Sam Wood denied bail"
       ]
     },
     {
@@ -27,15 +28,14 @@
     {
       "name": "Mauritius",
       "items": [
-        "Main reservoir has lost capacity, minister tells Parliament",
-        "Social housing behind schedule at Pointe-aux-Piments"
+        "Ramgoolam meets NGOs on the social roots of the unrest",
+        "Unions march today against pension reform",
+        "French firms expand leak detection as water crisis continues"
       ]
     },
     {
       "name": "Claude",
-      "items": [
-        "Anthropic expands AI for Science to 20 research partners"
-      ]
+      "items": []
     }
   ]
 }
