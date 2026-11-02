@@ -1,35 +1,38 @@
 {
-  "date": "Monday 2 November 2026",
-  "updated": "2 Nov 2026, 6:44 AM AEST",
+  "date": "Tuesday 3 November 2026",
+  "updated": "3 Nov 2026, 6:44 AM AEST",
   "sections": [
     {
       "name": "World",
       "items": [
-        "Student cost-of-living protests turn violent in Frankfurt",
-        "Herzog urges calm as Israel's deadlock heads to coalition talks",
-        "Ex-US spy chiefs warn Trump could interfere in the midterms",
-        "Ukrainian drone hits Russian refinery despite reported pause"
+        "Iran says \"intensive\" talks with US under way to avert war",
+        "Strikes on Ukrainian aid site reportedly kill 24 (Unconfirmed)",
+        "US votes in midterms today, US time",
+        "Business jet breaks up before crashing in Florida, killing nine"
       ]
     },
     {
       "name": "Australia",
       "items": [
-        "House prices fall for a seventh straight month",
-        "ASIC warns super funds are failing members on complaints",
-        "National gun buyback begins in NSW",
-        "Alcaraz beats de Minaur in Vienna final"
+        "RBA decision today, with a fifth rate rise this year expected",
+        "High Court hears first major challenge to under-16s social media ban",
+        "Author Craig Silvey convicted on child exploitation material charges",
+        "Matt Canavan to seek Queensland seat of Capricornia"
       ]
     },
     {
       "name": "Moreton Bay",
-      "items": []
+      "items": [
+        "Severe storms possible across the south-east today"
+      ]
     },
     {
       "name": "Mauritius",
       "items": [
-        "Water reserves fall sharply ahead of Divali",
-        "Airport Holdings split into two groups",
-        "2027 school year to start 12 January"
+        "Union march against pension reform draws smaller crowd",
+        "Hot, dry summer forecast under El Niño",
+        "Boreholes and filtration units deployed to ease shortages",
+        "SBM Insights forecasts growth below 3%"
       ]
     },
     {
