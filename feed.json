@@ -1,23 +1,23 @@
 {
-  "date": "Monday 9 November 2026",
-  "updated": "9 Nov 2026, 6:44 AM AEST",
+  "date": "Tuesday 10 November 2026",
+  "updated": "10 Nov 2026, 6:44 AM AEST",
   "sections": [
     {
       "name": "World",
       "items": [
-        "Train collision near Cairo kills at least seven",
-        "Two Australians survive firefighting helicopter crash in Borneo",
-        "COP31 climate talks open in Türkiye",
-        "Eisenkot begins coalition talks in Israel"
+        "Russell Brand jailed for 10 years and six months",
+        "France blames Iran's Revolutionary Guard for supermarket fridge cyberattacks",
+        "Nvidia orders independent investigation into Jensen Huang",
+        "Krakow gunman dies; Poland treats shooting as terrorism"
       ]
     },
     {
       "name": "Australia",
       "items": [
-        "Senate inquiry into Digital Duty of Care bill begins",
-        "ASIC threatens licences over super-switching telemarketers",
-        "Standoff over private health rebate for over-65s",
-        "NSW prisoner complaints up 60% to more than 32,000"
+        "Albanese to raise Iran war with Trump in Manila",
+        "ANZ posts $7.3 billion profit",
+        "Warner backs Khawaja's ball-tampering claims",
+        "Consumers warned about Black Friday sales tactics"
       ]
     },
     {
@@ -27,14 +27,16 @@
     {
       "name": "Mauritius",
       "items": [
-        "Opposition leader slams government's two-year record",
-        "Rs 940M deal to fund 17 solar plants",
-        "IPCC probe into Élodie Thomas shooting to close end of November"
+        "Reservoirs at 49.6%, Mare-aux-Vacoas at 33%",
+        "Water tank scheme hit by extra charges and suspended orders",
+        "\"Ki Pri\" app launched to check prices"
       ]
     },
     {
       "name": "Claude",
-      "items": []
+      "items": [
+        "Anthropic releases Claude Fable 5.2 and Claude Mythos 5.2"
+      ]
     }
   ]
 }
