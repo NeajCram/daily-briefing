@@ -1,41 +1,43 @@
 {
-  "date": "Tuesday 10 November 2026",
-  "updated": "10 Nov 2026, 6:44 AM AEST",
+  "date": "Wednesday 11 November 2026",
+  "updated": "11 Nov 2026, 6:44 AM AEST",
   "sections": [
     {
       "name": "World",
       "items": [
-        "Russell Brand jailed for 10 years and six months",
-        "France blames Iran's Revolutionary Guard for supermarket fridge cyberattacks",
-        "Nvidia orders independent investigation into Jensen Huang",
-        "Krakow gunman dies; Poland treats shooting as terrorism"
+        "Hegseth faces impeachment vote over Iran war",
+        "US moves refuelling aircraft from UK base amid reported Iran threat",
+        "Ukraine–Russia talks resume in Abu Dhabi without breakthrough",
+        "Twelve dead in Bulgarian motorway pile-up"
       ]
     },
     {
       "name": "Australia",
       "items": [
-        "Albanese to raise Iran war with Trump in Manila",
-        "ANZ posts $7.3 billion profit",
-        "Warner backs Khawaja's ball-tampering claims",
-        "Consumers warned about Black Friday sales tactics"
+        "Mandatory AI safety rules after AI agent accessed Medicare data",
+        "Qantas to cut 850 corporate jobs, moving work to Accenture",
+        "Eleven unknown WWI soldiers formally identified",
+        "COP31 electrification target sparks row over fossil fuels"
       ]
     },
     {
       "name": "Moreton Bay",
-      "items": []
+      "items": [
+        "New ANZAC memorial at Redcliffe retirement village used for the first time today"
+      ]
     },
     {
       "name": "Mauritius",
       "items": [
-        "Reservoirs at 49.6%, Mare-aux-Vacoas at 33%",
-        "Water tank scheme hit by extra charges and suspended orders",
-        "\"Ki Pri\" app launched to check prices"
+        "Forensic doctor says Kistnen death was murder, not suicide",
+        "Ministry sets up inquiry into Université des Mascareignes",
+        "Limits on teen social media use under study with Meta"
       ]
     },
     {
       "name": "Claude",
       "items": [
-        "Anthropic releases Claude Fable 5.2 and Claude Mythos 5.2"
+        "Anthropic launches IPO roadshow"
       ]
     }
   ]
