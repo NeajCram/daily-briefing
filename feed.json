@@ -1,44 +1,45 @@
 {
-  "date": "Wednesday 11 November 2026",
-  "updated": "11 Nov 2026, 6:44 AM AEST",
+  "date": "Thursday 12 November 2026",
+  "updated": "12 Nov 2026, 6:44 AM AEST",
   "sections": [
     {
       "name": "World",
       "items": [
-        "Hegseth faces impeachment vote over Iran war",
-        "US moves refuelling aircraft from UK base amid reported Iran threat",
-        "Ukraine–Russia talks resume in Abu Dhabi without breakthrough",
-        "Twelve dead in Bulgarian motorway pile-up"
+        "Ukraine and Russia agree large prisoner swap",
+        "Four million join Spain's first general strike since 2012",
+        "COP31 opens; Australia criticised over coal and gas",
+        "Hoax bomb alerts now target schools in Italy, UK and Ireland"
       ]
     },
     {
       "name": "Australia",
       "items": [
-        "Mandatory AI safety rules after AI agent accessed Medicare data",
-        "Qantas to cut 850 corporate jobs, moving work to Accenture",
-        "Eleven unknown WWI soldiers formally identified",
-        "COP31 electrification target sparks row over fossil fuels"
+        "Albanese promises mandatory AI safety protections",
+        "Regional flights cost 173% more per kilometre than city routes",
+        "Woodside's $30B Browse gas project may struggle for finance",
+        "Singapore Airlines flight diverts to Rockhampton after cabin smoke"
       ]
     },
     {
       "name": "Moreton Bay",
       "items": [
-        "New ANZAC memorial at Redcliffe retirement village used for the first time today"
+        "Storms cut power across the region",
+        "Council adopts 20-year infrastructure plan",
+        "Clearing begins at Petrie site"
       ]
     },
     {
       "name": "Mauritius",
       "items": [
-        "Forensic doctor says Kistnen death was murder, not suicide",
-        "Ministry sets up inquiry into Université des Mascareignes",
-        "Limits on teen social media use under study with Meta"
+        "Ramgoolam meets Macron at the Élysée",
+        "Air Mauritius posts Rs 4.1B profit, Rs 2B adjusted",
+        "Seven child deaths linked to violence since January 2025",
+        "Up to Rs 264M to replace 12km of leaking pipes in Goodlands"
       ]
     },
     {
       "name": "Claude",
-      "items": [
-        "Anthropic launches IPO roadshow"
-      ]
+      "items": []
     }
   ]
 }
