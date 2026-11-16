@@ -1,37 +1,41 @@
 {
-  "date": "Monday 16 November 2026",
-  "updated": "16 Nov 2026, 6:44 AM AEST",
+  "date": "Tuesday 17 November 2026",
+  "updated": "17 Nov 2026, 6:44 AM AEST",
   "sections": [
     {
       "name": "World",
       "items": [
-        "Iran claims strike on US radar system in Bahrain (Unconfirmed)",
-        "Israel kills Hamas's Rafah commander in Gaza strike",
-        "Tech stocks drag Wall Street lower on Nvidia and AI worries"
+        "Yemen government forces retreat to defend Aden",
+        "Ten nations sign US-led AI supply chain pact"
       ]
     },
     {
       "name": "Australia",
       "items": [
-        "Unions and industry urge Senate to pass gas reservation scheme",
-        "Kangaroos and Jillaroos win Rugby League World Cup finals"
+        "Australia joins Trump's AI alliance",
+        "Rudd-era mining tax could have added $135 billion to budget, PBO says",
+        "Robert Irwin named Queensland's Australian of the Year"
       ]
     },
     {
       "name": "Moreton Bay",
-      "items": []
+      "items": [
+        "Moreton Bay included in severe thunderstorm warning"
+      ]
     },
     {
       "name": "Mauritius",
       "items": [
-        "26-week paid maternity leave for civil servants from January",
-        "Village councils to be dissolved on 22 November",
-        "SBM Group profit before tax up 23.1%"
+        "Disabled bulk carrier anchored off St Brandon reefs",
+        "Air Mauritius keeps Seabury report and its cost confidential",
+        "Tourism could beat 2025 records, minister says"
       ]
     },
     {
       "name": "Claude",
-      "items": []
+      "items": [
+        "Anthropic IPO reportedly set to raise about US$90 billion (Unconfirmed)"
+      ]
     }
   ]
 }
