@@ -1,41 +1,40 @@
 {
-  "date": "Tuesday 17 November 2026",
-  "updated": "17 Nov 2026, 6:44 AM AEST",
+  "date": "Wednesday 18 November 2026",
+  "updated": "18 Nov 2026, 6:44 AM AEST",
   "sections": [
     {
       "name": "World",
       "items": [
-        "Yemen government forces retreat to defend Aden",
-        "Ten nations sign US-led AI supply chain pact"
+        "Ukraine strikes Kerch Bridge as Russia hits Kyiv's bridges (Details differ)",
+        "Quad announces joint military exercise and minerals deals",
+        "US loses measles-free status after 26 years"
       ]
     },
     {
       "name": "Australia",
       "items": [
-        "Australia joins Trump's AI alliance",
-        "Rudd-era mining tax could have added $135 billion to budget, PBO says",
-        "Robert Irwin named Queensland's Australian of the Year"
+        "Chalmers proposes letting super funds invest in housing, energy and startups",
+        "Three Queenslanders die waiting for ambulances"
       ]
     },
     {
       "name": "Moreton Bay",
       "items": [
-        "Moreton Bay included in severe thunderstorm warning"
+        "Work starts on Mango Hill hotel and leisure precinct",
+        "Wamuran family campaigns for \"Carol's Law\" driver eye tests"
       ]
     },
     {
       "name": "Mauritius",
       "items": [
-        "Disabled bulk carrier anchored off St Brandon reefs",
-        "Air Mauritius keeps Seabury report and its cost confidential",
-        "Tourism could beat 2025 records, minister says"
+        "Mauritians asked to cut power use from 6pm to 9pm",
+        "32 police and prison officers arrested over drugs since 2025",
+        "Mauritius stays second in Mo Ibrahim governance index"
       ]
     },
     {
       "name": "Claude",
-      "items": [
-        "Anthropic IPO reportedly set to raise about US$90 billion (Unconfirmed)"
-      ]
+      "items": []
     }
   ]
 }
