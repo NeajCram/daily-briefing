@@ -1,39 +1,40 @@
 {
-  "date": "Thursday 19 November 2026",
-  "updated": "19 Nov 2026, 6:44 AM AEST",
+  "date": "Friday 20 November 2026",
+  "updated": "20 Nov 2026, 6:45 AM AEST",
   "sections": [
     {
       "name": "World",
       "items": [
-        "Xi, Trump and Putin set for three-way talks in Shenzhen",
-        "Democrats nominate Hakeem Jeffries for US House speaker"
+        "Trump, Xi and Putin issue joint statement after Shenzhen talks",
+        "UN court rules Myanmar committed genocide against Rohingya"
       ]
     },
     {
       "name": "Australia",
       "items": [
-        "Bancroft says \"whole team\" knew about sandpaper",
-        "Telco complaints surge after July Telstra outage"
+        "Unemployment jumps to 4.9% in October",
+        "Three teens charged with murder over Loganholme pub shooting"
       ]
     },
     {
       "name": "Moreton Bay",
       "items": [
-        "Hooning crackdown sees 244 charged across Moreton Bay",
-        "$1.8 million raised for Redcliffe Hospital"
+        "North Lakes golf course school proposal open for feedback",
+        "Wooden furniture tops council's landfill list"
       ]
     },
     {
       "name": "Mauritius",
       "items": [
-        "IPCC seeks charges against four police over Camp-Levieux shooting",
-        "Lower VAT registration threshold to stay",
-        "More than 150 sign up for Chagos visit in April 2027"
+        "Ramgoolam says Chagos sovereignty is \"non-negotiable\"",
+        "Hotels asked to cut water waste as reserves fall"
       ]
     },
     {
       "name": "Claude",
-      "items": []
+      "items": [
+        "Anthropic prices its IPO at US$83 a share"
+      ]
     }
   ]
 }
