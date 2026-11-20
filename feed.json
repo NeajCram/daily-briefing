@@ -1,40 +1,36 @@
 {
-  "date": "Friday 20 November 2026",
-  "updated": "20 Nov 2026, 6:45 AM AEST",
+  "date": "Saturday 21 November 2026",
+  "updated": "21 Nov 2026, 6:46 AM AEST",
   "sections": [
     {
       "name": "World",
       "items": [
-        "Trump, Xi and Putin issue joint statement after Shenzhen talks",
-        "UN court rules Myanmar committed genocide against Rohingya"
+        "Russia launches massive strikes on Ukraine after Crimea bridge attack",
+        "Trump-Xi-Putin summit yields peace declaration but little action",
+        "Myanmar calls UN genocide ruling \"unfair\""
       ]
     },
     {
       "name": "Australia",
       "items": [
-        "Unemployment jumps to 4.9% in October",
-        "Three teens charged with murder over Loganholme pub shooting"
+        "Xi declares \"full turnaround\" in China-Australia relations",
+        "David Jones issues 1,689 redundancy notices",
+        "Man charged with terror offences after Sydney raids"
       ]
     },
     {
       "name": "Moreton Bay",
-      "items": [
-        "North Lakes golf course school proposal open for feedback",
-        "Wooden furniture tops council's landfill list"
-      ]
+      "items": []
     },
     {
       "name": "Mauritius",
       "items": [
-        "Ramgoolam says Chagos sovereignty is \"non-negotiable\"",
-        "Hotels asked to cut water waste as reserves fall"
+        "Parliament passes heavy rain worker protection bill"
       ]
     },
     {
       "name": "Claude",
-      "items": [
-        "Anthropic prices its IPO at US$83 a share"
-      ]
+      "items": []
     }
   ]
 }
