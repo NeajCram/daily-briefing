@@ -1,21 +1,20 @@
 {
-  "date": "Saturday 21 November 2026",
-  "updated": "21 Nov 2026, 6:46 AM AEST",
+  "date": "Sunday 22 November 2026",
+  "updated": "22 Nov 2026, 6:46 AM AEST",
   "sections": [
     {
       "name": "World",
       "items": [
-        "Russia launches massive strikes on Ukraine after Crimea bridge attack",
-        "Trump-Xi-Putin summit yields peace declaration but little action",
-        "Myanmar calls UN genocide ruling \"unfair\""
+        "Mexico captures drug kingpin on FBI most-wanted list",
+        "Trump vows tax on US firms building data centres overseas",
+        "Students rally across Europe over cost of living and war"
       ]
     },
     {
       "name": "Australia",
       "items": [
-        "Xi declares \"full turnaround\" in China-Australia relations",
-        "David Jones issues 1,689 redundancy notices",
-        "Man charged with terror offences after Sydney raids"
+        "Rallies warn new insurance rules will cut access to homebirths",
+        "Experts urge back-up plans after week of tech outages"
       ]
     },
     {
@@ -25,12 +24,15 @@
     {
       "name": "Mauritius",
       "items": [
-        "Parliament passes heavy rain worker protection bill"
+        "Extra 20,000 m³ of water a day from Tamarind Falls",
+        "Competition watchdog proposes code for food distribution"
       ]
     },
     {
       "name": "Claude",
-      "items": []
+      "items": [
+        "Anthropic closes IPO, raising about US$119.5 billion in total"
+      ]
     }
   ]
 }
