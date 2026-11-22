@@ -1,20 +1,21 @@
 {
-  "date": "Sunday 22 November 2026",
-  "updated": "22 Nov 2026, 6:46 AM AEST",
+  "date": "Monday 23 November 2026",
+  "updated": "23 Nov 2026, 6:46 AM AEST",
   "sections": [
     {
       "name": "World",
       "items": [
-        "Mexico captures drug kingpin on FBI most-wanted list",
-        "Trump vows tax on US firms building data centres overseas",
-        "Students rally across Europe over cost of living and war"
+        "COP31 ends without a deal",
+        "Wall Street plunges as Nasdaq drops 5.3%",
+        "Deadly fire at Indonesian candy factory (Details differ)"
       ]
     },
     {
       "name": "Australia",
       "items": [
-        "Rallies warn new insurance rules will cut access to homebirths",
-        "Experts urge back-up plans after week of tech outages"
+        "Recession indicator edges closer to trigger",
+        "Wong to name AI as a national security challenge",
+        "Gas exporters feud at Senate hearing on reservation scheme"
       ]
     },
     {
@@ -24,15 +25,14 @@
     {
       "name": "Mauritius",
       "items": [
-        "Extra 20,000 m³ of water a day from Tamarind Falls",
-        "Competition watchdog proposes code for food distribution"
+        "Foot-and-mouth disease found in northern cattle farm",
+        "Opposition to boycott committee on criminal responsibility age",
+        "CIEL quarterly profit up 42% to Rs 1.1 billion"
       ]
     },
     {
       "name": "Claude",
-      "items": [
-        "Anthropic closes IPO, raising about US$119.5 billion in total"
-      ]
+      "items": []
     }
   ]
 }
